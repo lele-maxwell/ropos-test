@@ -1,3 +1,4 @@
+
 1. Install and Familiarize Yourself with Linux:
 
     Start with a beginner-friendly distribution like Ubuntu, Fedora, or openSUSE.

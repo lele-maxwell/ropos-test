@@ -1,1 +1,1 @@
-testing commit signing
+testing global commit signing
